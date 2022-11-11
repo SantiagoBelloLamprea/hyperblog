@@ -6,3 +6,5 @@ En este curso vemos de todo
 * Comandos de Git
 * Santiago Bello Lamprea
 * Cambio 1
+* Cambio 2
+* Cambio 3
