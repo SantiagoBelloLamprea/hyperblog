@@ -5,3 +5,4 @@ Un blog increible para el curso de Git y GitHub de Platzi
 En este curso vemos de todo
 * Comandos de Git
 * Santiago Bello Lamprea
+* Cambio 1
